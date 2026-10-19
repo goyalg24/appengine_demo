@@ -36,3 +36,12 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### IDE (entire folder) ###
+.idea/
+
+### Build artifacts ###
+*.war
+*.jar
+
+### Env files ###
+.env
